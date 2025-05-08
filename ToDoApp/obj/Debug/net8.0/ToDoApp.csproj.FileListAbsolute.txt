@@ -1,0 +1,14 @@
+C:\Users\stavr\source\repos\ToDoApp\obj\Debug\net8.0\ToDoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stavr\source\repos\ToDoApp\obj\Debug\net8.0\ToDoApp.AssemblyInfoInputs.cache
+C:\Users\stavr\source\repos\ToDoApp\obj\Debug\net8.0\ToDoApp.AssemblyInfo.cs
+C:\Users\stavr\source\repos\ToDoApp\obj\Debug\net8.0\ToDoApp.csproj.CoreCompileInputs.cache
+C:\Users\stavr\source\repos\ToDoApp\bin\Debug\net8.0\ToDoApp.exe
+C:\Users\stavr\source\repos\ToDoApp\bin\Debug\net8.0\ToDoApp.deps.json
+C:\Users\stavr\source\repos\ToDoApp\bin\Debug\net8.0\ToDoApp.runtimeconfig.json
+C:\Users\stavr\source\repos\ToDoApp\bin\Debug\net8.0\ToDoApp.dll
+C:\Users\stavr\source\repos\ToDoApp\bin\Debug\net8.0\ToDoApp.pdb
+C:\Users\stavr\source\repos\ToDoApp\obj\Debug\net8.0\ToDoApp.dll
+C:\Users\stavr\source\repos\ToDoApp\obj\Debug\net8.0\refint\ToDoApp.dll
+C:\Users\stavr\source\repos\ToDoApp\obj\Debug\net8.0\ToDoApp.pdb
+C:\Users\stavr\source\repos\ToDoApp\obj\Debug\net8.0\ToDoApp.genruntimeconfig.cache
+C:\Users\stavr\source\repos\ToDoApp\obj\Debug\net8.0\ref\ToDoApp.dll
